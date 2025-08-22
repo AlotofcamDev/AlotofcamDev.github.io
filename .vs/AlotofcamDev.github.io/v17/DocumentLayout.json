@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aloto\\OneDrive\\Documents\\GitHub\\AlotofcamDev.github.io\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aloto\\OneDrive\\Documents\\GitHub\\AlotofcamDev.github.io\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aloto\\OneDrive\\Documents\\GitHub\\AlotofcamDev.github.io\\RatsToRiches.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RatsToRiches.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aloto\\OneDrive\\Documents\\GitHub\\AlotofcamDev.github.io\\TerraCaelum.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TerraCaelum.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aloto\\OneDrive\\Documents\\GitHub\\AlotofcamDev.github.io\\TrainRushVR.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TrainRushVR.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TrainRushVR.html",
+              "DocumentMoniker": "C:\\Users\\aloto\\OneDrive\\Documents\\GitHub\\AlotofcamDev.github.io\\TrainRushVR.html",
+              "RelativeDocumentMoniker": "TrainRushVR.html",
+              "ToolTip": "C:\\Users\\aloto\\OneDrive\\Documents\\GitHub\\AlotofcamDev.github.io\\TrainRushVR.html",
+              "RelativeToolTip": "TrainRushVR.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-08-22T12:58:28.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TerraCaelum.html",
+              "DocumentMoniker": "C:\\Users\\aloto\\OneDrive\\Documents\\GitHub\\AlotofcamDev.github.io\\TerraCaelum.html",
+              "RelativeDocumentMoniker": "TerraCaelum.html",
+              "ToolTip": "C:\\Users\\aloto\\OneDrive\\Documents\\GitHub\\AlotofcamDev.github.io\\TerraCaelum.html",
+              "RelativeToolTip": "TerraCaelum.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-08-22T12:58:27.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RatsToRiches.html",
+              "DocumentMoniker": "C:\\Users\\aloto\\OneDrive\\Documents\\GitHub\\AlotofcamDev.github.io\\RatsToRiches.html",
+              "RelativeDocumentMoniker": "RatsToRiches.html",
+              "ToolTip": "C:\\Users\\aloto\\OneDrive\\Documents\\GitHub\\AlotofcamDev.github.io\\RatsToRiches.html",
+              "RelativeToolTip": "RatsToRiches.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-08-22T12:58:26.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\aloto\\OneDrive\\Documents\\GitHub\\AlotofcamDev.github.io\\index.html",
+              "RelativeDocumentMoniker": "index.html",
+              "ToolTip": "C:\\Users\\aloto\\OneDrive\\Documents\\GitHub\\AlotofcamDev.github.io\\index.html",
+              "RelativeToolTip": "index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-08-22T12:58:24.937Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
